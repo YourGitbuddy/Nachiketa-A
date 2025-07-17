@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  📍 Pune, India &nbsp;•&nbsp; 📧 ambarkhanenachiketa09@gmail.com • 📞 +91-7020561186
+  📍 Pune, India &nbsp;•&nbsp; 📧 ambarkhanenachiketa09@gmail.com •
 </p>
 
 <p align="center">
