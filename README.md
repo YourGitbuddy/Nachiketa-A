@@ -1,97 +1,115 @@
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=f0440a&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Nachiketa+Ambarkhane+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+%7C+IaC+%7C+CI%2FCD;Automation+Enthusiast+%F0%9F%9A%80;Secure+%2B+Scalable+Infra+Builder+%F0%9F%94%91" alt="Typing Intro" />
-</div>
-
-<!-- Header with Badges and Emojis -->
-<div align="center">
-
-## 🧑‍💻 Nachiketa Ambarkhane  
-### Associate Consultant @ Infosys
-
-☁️ AWS • Azure • GCP &nbsp;&nbsp;|&nbsp;&nbsp; 🐳 Docker • 🎯 Kubernetes • 🔁 Jenkins &nbsp;&nbsp;|&nbsp;&nbsp; 🧱 Terraform • 🛡️ DevSecOps
-
-<p>
-  <img src="https://img.shields.io/badge/Associate_Consultant-Infosys-0077B5?style=flat-square&logo=infosys&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
-</p>
-
-
-</div>
-
-<!-- Centered Header -->
-<div align="center">
-
-<!-- Header -->
-<div align="center">
-
-</div>
-
----
-
-
-## 💼 About Me
-
-🎯 DevOps Engineer who loves to build secure, scalable, and automated cloud infrastructure.  
-
-💡 Currently an **Associate Consultant at Infosys**, I focus on:
-
-- ☁️ **Cloud Platforms:** AWS • Azure • GCP  
-- 🔁 **CI/CD:** GitHub Actions • Jenkins • Azure DevOps  
-- 🐳 **Containers:** Docker • Kubernetes • Helm  
-- 🧱 **IaC:** Terraform  
-- 🔐 **Security & Resilience:** IAM • Secrets Mgmt • Monitoring  
-- 📦 **Architecture:** Microservices • Serverless  
-
----
-
-## 🚀 What Drives Me
-
-- ⚙️ Automating everything with Infrastructure as Code  
-- 🧠 Solving real-world ops problems with elegant DevOps solutions  
-- 🌐 Evangelizing DevOps culture and CI/CD best practices  
-- 🛡️ Prioritizing secure-by-default deployments  
-
----
-
-## 🛠️ Tech Stack
-
-| 💻 Category        | 🔧 Tools & Tech |
-|-------------------|-----------------|
-| ☁️ Cloud           | `Azure` • `AWS` • `GCP` |
-| 🚀 CI/CD           | `Jenkins` • `GitHub Actions` • `Azure DevOps` |
-| 🐳 Containerization | `Docker` • `Kubernetes` • `Helm` |
-| 🧱 IaC             | `Terraform` |
-| 🔐 Security        | `IAM` • `Vault` • `Policies` |
-| 🔃 Monitoring/Logs | `Grafana` • `Prometheus` • `ELK` |
-| 💻 VCS             | `Git` • `GitHub` |
-
----
-
-
-## 📬 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/connect-nachiketa-ambarkhane">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nachiketa-Ambarkhane">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-## 🎉 Fun Fact
-
-> “I love making infrastructure invisible to developers —  
-> so they can focus on building awesome features. 🚀”
-
----
-
-<!-- Footer wave -->
+<h1 align="center">🚀 Nachiketa Ambarkhane 🚀</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
+  💼 Senior DevOps Engineer | ☁️ AWS & Azure | 🛠️ CI/CD | ⚙️ Kubernetes & IaC
 </p>
+
+<p align="center">
+  📍 Pune, India &nbsp;•&nbsp; 📧 ambarkhanenachiketa09@gmail.com • 📞 +91-7020561186
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/connect-nachiketa-ambarkhane" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🚀 Senior DevOps Engineer with **3.8+ years** of experience automating CI/CD pipelines, managing cloud infra, and deploying Kubernetes workloads on **AWS** and **Azure**.
+
+💡 Specialized in **GitLab/Jenkins pipelines**, **Terraform/Helm-based IaC**, and managing **EKS/AKS** clusters with a focus on automation, scalability, and security.
+
+🔍 Passionate about observability, SSO integration (SAML 2.0), and cloud-native reliability engineering.
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure"/> Azure</td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" title="AWS"/> AWS</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/> Docker</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes"/> K8s</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/> Terraform</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="NGINX"/> NGINX</td>
+</tr>
+<tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> Git</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins"/> Jenkins</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab"/> GitLab</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="40" title="Azure DevOps"/> Azure DevOps</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus"/> Prometheus</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana"/> Grafana</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏢 Experience
+
+### 🧠 Associate Consultant  
+📍 *Infosys Pvt Ltd – Pune*  
+📅 *Dec 2024 – Present*
+
+- 🔁 Built GitLab CI/CD pipelines for automated deployments  
+- ☁️ Provisioned AWS & Azure infra with Terraform + Workspaces  
+- 🎛️ Managed EKS/AKS clusters for high availability  
+- 🧰 Helm-based microservices deployments  
+- 📈 Integrated Prometheus, Grafana, ELK for monitoring/logging  
+- 🔐 SSO integration via SAML 2.0 & Digested Token  
+- 📊 Optimized deployment strategies for cost and performance  
+
+---
+
+### 🧠 Senior Software Engineer  
+📍 *Capgemini – Pune*  
+📅 *2021 – 2024*
+
+- ⚙️ Automated CI/CD using Jenkins & Git best practices  
+- 🐳 Deployed containers via Docker  
+- 📦 Used Terraform for full-stack infra automation  
+- 🛠️ Implemented proactive monitoring using Prometheus & Grafana  
+- 🔐 Delivered secure auth with SAML 2.0 & token-based login  
+- 🌐 Integrated web services for improved system communication  
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Engineering – Computer**  
+📍 Modern Education Society’s College of Engineering (SPPU)  
+📅 *2017 – 2021*
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+</div>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:ambarkhanenachiketa09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/connect-nachiketa-ambarkhane" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
